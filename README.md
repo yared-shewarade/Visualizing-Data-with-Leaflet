@@ -1,4 +1,4 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+Visualizing Data with Leaflet
 
 ## Background
 
@@ -8,7 +8,6 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
-## Your Task
 
 ### Level 1: Basic Visualization
 
@@ -38,7 +37,7 @@ Your first task is to visualize an earthquake data set.
 
 - - -
 
-### Level 2: More Data (Optional)
+### Level 2: More Data
 
 ![5-Advanced](Images/5-Advanced.png)
 
@@ -52,20 +51,5 @@ In this step we are going to..
 
 * Add layer controls to our map.
 
-- - -
-
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of assigned tasks
-
-* Visual appearance
-
-* Professionalism
-
-**Good luck!**
-
-## Copyright
 
 Data Boot Camp (C) 2018. All Rights Reserved.
